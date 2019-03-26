@@ -1,0 +1,392 @@
+POST http://localhost:8083/product/all
+
+<> 2019-03-26T110139.200.json
+
+###
+
+POST http://localhost:8083/product/delete
+Content-Type: application/json
+
+{ "id": 2 }
+
+<> 2019-03-26T110136.200.json
+
+###
+
+POST http://localhost:8083/product/all
+
+<> 2019-03-26T110129.200.json
+
+###
+
+POST http://localhost:8083/product/modify
+Content-Type: application/json
+
+{ "id": 2, "name": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+<> 2019-03-26T110124.200.json
+
+###
+
+POST http://localhost:8083/product/delete
+Content-Type: application/json
+
+{ "id": 0 }
+
+<> 2019-03-26T110012.200.json
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+<> 2019-03-26T105910.200.json
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 1 }
+
+<> 2019-03-26T105544.200.json
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 1 }
+
+<> 2019-03-26T105506.200.json
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+<> 2019-03-26T105500.200.json
+
+###
+
+POST http://localhost:8083/product/all
+
+<> 2019-03-26T104313.200.json
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "name": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+<> 2019-03-26T103724.500.json
+
+###
+
+POST http://localhost:8083/product/all
+
+<> 2019-03-26T103637.200.json
+
+###
+
+POST http://localhost:8083/product/all
+
+<> 2019-03-26T103338.200.json
+
+###
+
+POST http://localhost:8083/product/all
+
+<> 2019-03-26T103243.200.json
+
+###
+
+POST http://localhost:8083/product/all
+
+<> 2019-03-26T103127.200.json
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+<> 2019-03-26T103018.200.json
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+<> 2019-03-26T102540.200.json
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+<> 2019-03-26T102445.200.json
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+<> 2019-03-26T102358.200.txt
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+###
+
+POST http://localhost:8083/product/query
+Content-Type: application/json
+
+{ "id": 2 }
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "name": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+<> 2019-03-26T101358.200.json
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "name": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "name": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+<> 2019-03-26T101207.500.json
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "name": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+<> 2019-03-26T100916.500.json
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "name": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+<> 2019-03-26T090645.500.json
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "productName": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+<> 2019-03-26T090622.400.txt
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "productName": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+<> 2019-03-26T090535.400.txt
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "productName": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+<> 2019-03-26T090437.500.txt
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "productName": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+<> 2019-03-26T090434.500.txt
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "productName": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+<> 2019-03-26T090427.500.txt
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "productName": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+<> 2019-03-26T090250.400.txt
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "productName": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "productName": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+<> 2019-03-26T085944.500.json
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "productName": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+<> 2019-03-26T085906.400.txt
+
+###
+
+POST http://localhost:8083/product/add
+Content-Type: application/json
+
+{ "name": "电脑", "category": "笔记本电脑", "detail": "这是一台测试笔记本电脑" }
+
+<> 2019-03-26T085632.500.json
+
+###
+
+POST http://localhost:8083/product/all
+
+<> 2019-03-26T085028.200.json
+
+###
+
