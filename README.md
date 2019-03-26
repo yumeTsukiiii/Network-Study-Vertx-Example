@@ -1,1 +1,7 @@
-Network+ Study Vertx Example
+# 互联网+小组后端Vertx学习简单实例
+
+### 重点掌握以下内容：
+* 路由
+* Json序列化
+* 数据库访问
+* Future异步编程
